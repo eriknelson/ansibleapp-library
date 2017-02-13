@@ -1,5 +1,6 @@
 #!/bin/bash
 ANSIBLEAPP_ACTION=$1
+export ANSIBLE_ROLES_PATH=/usr/local/ansible/roles
 
 playbooks=/usr/local/ansibleapp/actions
 
