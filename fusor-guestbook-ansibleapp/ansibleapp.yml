@@ -12,7 +12,8 @@
 # asbcli to provide these parameters.
 ############################################################
 id: 35ead4e8-cf1f-4909-bb1b-b981f4eb3142
-name: ansibleapp/fusor-guestbook-ansibleapp
+name: fusor-guestbook-ansibleapp
+image: eriknelson/fusor-guestbook-ansibleapp
 description: A mongo backed guestbook in node
 bindable: false
 async: "unsupported"

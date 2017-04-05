@@ -1,5 +1,6 @@
 id: 071f3645-7189-4808-b9c2-2d29c143e80d
-name: ansibleapp/external-mlab-ansibleapp
+name: external-mlab-ansibleapp
+image: eriknelson/external-mlab-ansibleapp
 description: Bindable ansibleapp shim for external mlab mongodb database
 bindable: true
 async: "unsupported"
